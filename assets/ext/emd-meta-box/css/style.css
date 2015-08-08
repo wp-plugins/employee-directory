@@ -1,0 +1,91 @@
+/* =Styles for 'normal' meta boxes
+-------------------------------------------------------------- */
+
+.emd-mb-field {
+	margin: 10px 0;
+}
+.emd-mb-label,
+.emd-mb-input {
+	display: inline-block;
+	vertical-align: top;
+}
+.emd-mb-label {
+	width: 24%;
+}
+.emd-mb-label.required > span {
+	color: #c00;
+	font-weight: bold;
+}
+
+/* 75% if field has label, 100% if no label */
+.emd-mb-input {
+	width: 100%;
+}
+.emd-mb-label ~ .emd-mb-input {
+	width: 75%;
+}
+.emd-mb-input h4 {
+	margin: 0;
+}
+.emd-mb-textarea {
+	resize: vertical;
+}
+
+/* Clone */
+.emd-mb-clone {
+	min-height: 24px;
+	margin-bottom: 5px;
+	position: relative;
+}
+.emd-mb-clone > input[type="radio"],
+.emd-mb-clone > input[type="checkbox"] {
+	margin: 6px 0 0 4px;
+}
+.emd-mb-button {
+	float: right;
+}
+.emd-mb-button.remove-clone {
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+/* Fix empty block below admin footer (issue #24) */
+#ui-datepicker-div {
+	display: none;
+}
+
+/* jQuery validation */
+label.error {
+	padding-left: 3px;
+	color: red;
+}
+input.error,
+textarea.error,
+select.error {
+	border: #c00 solid 1px !important;
+	background: #ffebe8 !important;
+}
+
+
+/* =Styles for 'side' meta boxes
+-------------------------------------------------------------- */
+
+#side-sortables .emd-mb-label,
+#side-sortables .emd-mb-input {
+	width: 100%;
+}
+#commentsdiv ul{
+        list-style: inside none disc;
+}
+.control-section.accordion-section.open h3.accordion-section-title{
+background-color: #418bcd;
+    color: #fff;
+}
+.control-section.accordion-section h3.accordion-section-title{
+background-color:#E3F1FE;
+    color:#778899;
+}
+#customize-info.open .accordion-section-title:after, .control-section.open .accordion-section-title:after, .nav-menus-php .menu-item-edit-active .item-edit:before, .widget.open .widget-top a.widget-action:after {
+    color: white;
+}
