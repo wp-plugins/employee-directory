@@ -1,0 +1,653 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-08-08T19:32:50-04:00\n"
+"POT-Creation-Date: 2015-08-08T19:32:50-04:00\n"
+
+#: ./employee-directory/assets/ext/edd/EDD_SL_Plugin_Updater.php:177
+msgid "There is a new version of %1$s available. <a target=\"_blank\" class=\"thickbox\" href=\"%2$s\">View version %3$s details</a>."
+msgstr ""
+
+#: ./employee-directory/assets/ext/edd/EDD_SL_Plugin_Updater.php:184
+msgid "There is a new version of %1$s available. <a target=\"_blank\" class=\"thickbox\" href=\"%2$s\">View version %3$s details</a> or <a href=\"%4$s\">update now</a>."
+msgstr ""
+
+#: ./employee-directory/assets/ext/edd/EDD_SL_Plugin_Updater.php:324
+msgid "You do not have permission to install plugin updates"
+msgstr ""
+
+#: ./employee-directory/assets/ext/edd/EDD_SL_Plugin_Updater.php:324
+msgid "Error"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/field.php:189
+msgid "+"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/field.php:206
+msgid "&#8211;"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/button.php:35
+msgid "Click me"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:18
+msgid "Done"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:19
+msgid "Prev"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:20
+msgid "Next"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:21
+msgid "Today"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "January"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "February"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "March"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "April"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:22
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "May"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "June"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "July"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "August"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "September"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "October"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "November"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:22
+msgid "December"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Jan"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Feb"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Mar"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Apr"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Jun"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Jul"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Aug"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Sep"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Oct"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Nov"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:23
+msgid "Dec"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Sunday"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Monday"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Tuesday"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Wednesday"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Thursday"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Friday"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:24
+msgid "Saturday"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Sun"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Mon"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Tue"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Wed"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Thu"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Fri"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:25
+msgid "Sat"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Su"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Mo"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Tu"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "We"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Th"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Fr"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:26
+msgid "Sa"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/date.php:27
+msgid "Wk"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/datetime.php:32
+msgid "Choose Time"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/datetime.php:33
+msgid "Time"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/datetime.php:34
+msgid "Hour"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/datetime.php:35
+msgid "Minute"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/datetime.php:36
+msgid "Second"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/datetime.php:37
+msgid "Millisecond"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/datetime.php:38
+msgid "Time Zone"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/datetime.php:39
+msgid "Now"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/file-advanced.php:23
+msgid "Select Files"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/file-advanced.php:64
+msgctxt "file upload"
+msgid "Select or Upload Files"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/file-advanced.php:100
+msgctxt "file upload"
+msgid "Delete"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/file-advanced.php:101
+msgctxt "file upload"
+msgid "Edit"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/file-input.php:17
+msgid "Select File"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/file-input.php:40
+msgid "Select"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/file-input.php:42
+msgid "Remove"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/file.php:19
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/file.php:20
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/file.php:70
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/file.php:83
+msgctxt "file upload"
+msgid "Upload Files"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/file.php:84
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/image-advanced.php:22
+msgid "Select Images"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/image-advanced.php:70
+msgctxt "image upload"
+msgid "Select or Upload Images"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/image-advanced.php:106
+msgctxt "image upload"
+msgid "Delete"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/image-advanced.php:107
+msgctxt "image upload"
+msgid "Edit"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/image.php:70
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/image.php:71
+msgctxt "image upload"
+msgid "+ Add new image"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/map.php:48
+msgid "Find Address"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/oembed.php:54
+msgid "Embed HTML not available."
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/oembed.php:76
+msgid "Preview"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/plupload-image.php:102
+msgctxt "image upload"
+msgid "Drop images here"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/plupload-image.php:103
+msgctxt "image upload"
+msgid "or"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/plupload-image.php:104
+msgctxt "image upload"
+msgid "Select Files"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/plupload-image.php:179
+msgctxt "image upload"
+msgid "Allowed Image Files"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/post.php:52
+msgid "Post"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/post.php:66
+msgid "Select a %s"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/fields/user.php:54
+msgid "User"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/meta-box.php:107
+msgid "This field is required."
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/meta-box.php:108
+msgid "Please fix this field."
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/meta-box.php:109
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/meta-box.php:110
+msgid "Please enter a valid URL."
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/meta-box.php:111
+msgid "Please enter a valid date."
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/meta-box.php:112
+msgid "Please enter a valid date ( ISO )"
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/meta-box.php:113
+msgid "Please enter a valid number."
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/meta-box.php:114
+msgid "Please enter only digits."
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/meta-box.php:115
+msgid "Please enter a valid credit card number."
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/meta-box.php:116
+msgid "Please enter the same value again."
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/meta-box.php:117
+msgid "Please enter no more than {0} characters."
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/meta-box.php:118
+msgid "Please enter at least {0} characters."
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/meta-box.php:119
+msgid "Please enter a value between {0} and {1} characters long."
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/meta-box.php:120
+msgid "Please enter a value between {0} and {1}."
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/meta-box.php:121
+msgid "Please enter a value less than or equal to {0}."
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/meta-box.php:122
+msgid "Please enter a value greater than or equal to {0}."
+msgstr ""
+
+#: ./employee-directory/assets/ext/emd-meta-box/inc/meta-box.php:272
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: ./employee-directory/assets/ext/zebraform/languages/english.php:11
+msgid "Clear"
+msgstr ""
+
+#: ./employee-directory/assets/ext/zebraform/languages/english.php:12
+msgid "There was a problem with your submission!<br>Possible causes may be that the submission has taken too long, or it represents a duplicate request.<br>Please try again."
+msgstr ""
+
+#: ./employee-directory/assets/ext/zebraform/languages/english.php:17
+msgid "Get a new code"
+msgstr ""
+
+#: ./employee-directory/assets/ext/zebraform/languages/english.php:18
+msgid "Other..."
+msgstr ""
+
+#: ./employee-directory/assets/ext/zebraform/languages/english.php:19
+msgid "- select -"
+msgstr ""
+
+#: ./employee-directory/assets/ext/zebraform/languages/english.php:20
+msgid "Possible spam attempt detected. The posted form data was rejected."
+msgstr ""
+
+#: ./employee-directory/includes/admin/license-functions.php:28
+msgid "Please enter and activate your <b>license keys</b>."
+msgstr ""
+
+#: ./employee-directory/includes/admin/license-functions.php:78
+msgid "Deactivate License"
+msgstr ""
+
+#: ./employee-directory/includes/admin/license-functions.php:82
+msgid "Activate License"
+msgstr ""
+
+#: ./employee-directory/includes/admin/singletax/class-emd-single-taxonomy.php:139
+msgid "Most Used"
+msgstr ""
+
+#: ./employee-directory/includes/admin/singletax/class-emd-single-taxonomy.php:203
+msgid "+ %s"
+msgstr ""
+
+#: ./employee-directory/includes/admin/store-functions.php:22
+#: ./employee-directory/includes/admin/store-functions.php:42
+msgid "Browse All"
+msgstr ""
+
+#: ./employee-directory/includes/admin/store-functions.php:24
+msgid "The following plugins extend and expand the functionality of your app."
+msgstr ""
+
+#: ./employee-directory/includes/admin/store-functions.php:44
+msgid "The following <a href=\"%s\" title=\"WP App Studio Prodev\" target=\"_blank\">WP App Studio Prodev</a> plugin designs can be used as a template:"
+msgstr ""
+
+#: ./employee-directory/includes/admin/store-functions.php:46
+msgid "To customize the functionality of their corresponding plugins"
+msgstr ""
+
+#: ./employee-directory/includes/admin/store-functions.php:49
+msgid "To create your own plugin"
+msgstr ""
+
+#: ./employee-directory/includes/admin/store-functions.php:74
+msgid "There was an error retrieving the extensions list from the server. Please try again later."
+msgstr ""
+
+#: ./employee-directory/includes/admin/store-functions.php:92
+msgid "Thanks for installing %s."
+msgstr ""
+
+#: ./employee-directory/includes/admin/store-functions.php:92
+msgid "All support requests are accepted through <a href=\"%s\" target=\"_blank\">our support site.</a>"
+msgstr ""
+
+#: ./employee-directory/includes/admin/store-functions.php:115
+msgid "Like our plugin? Leave us a review"
+msgstr ""
+
+#: ./employee-directory/includes/admin/wpas-btn-functions.php:30
+msgid "Forms"
+msgstr ""
+
+#: ./employee-directory/includes/admin/wpas-btn-functions.php:37
+msgid "Standards"
+msgstr ""
+
+#: ./employee-directory/includes/admin/wpas-btn-functions.php:48
+msgid "Integrations"
+msgstr ""
+
+#: ./employee-directory/includes/admin/wpas-btn-functions.php:55
+msgid "Charts"
+msgstr ""
+
+#: ./employee-directory/includes/admin/wpas-btn-functions.php:62
+msgid "Datagrids"
+msgstr ""
+
+#: ./employee-directory/includes/admin/wpas-btn-functions.php:124
+msgid "Insert WPAS Shortcode"
+msgstr ""
+
+#: ./employee-directory/includes/admin/wpas-btn-functions.php:125
+msgid "Select a component below to insert into any Post or Page."
+msgstr ""
+
+#: ./employee-directory/includes/admin/wpas-btn-functions.php:130
+msgid "Insert Shortcode"
+msgstr ""
+
+#: ./employee-directory/includes/admin/wpas-btn-functions.php:150
+#: ./employee-directory/includes/admin/wpas-btn-functions.php:151
+msgid "Add WPAS Shortcode"
+msgstr ""
+
+#: ./employee-directory/includes/class-emd-widget.php:130
+msgid "Title"
+msgstr ""
+
+#: ./employee-directory/includes/class-emd-widget.php:135
+msgid "%s to show"
+msgstr ""
+
+#: ./employee-directory/includes/class-emd-widget.php:136
+msgid "Max: 10"
+msgstr ""
+
+#: ./employee-directory/includes/class-emd-widget.php:209
+#: ./employee-directory/includes/class-emd-widget.php:222
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: ./employee-directory/includes/common-functions.php:220
+msgid "Author:"
+msgstr ""
+
+#: ./employee-directory/includes/common-functions.php:221
+msgid "%s \a\t %s"
+msgstr ""
+
+#: ./employee-directory/includes/entities/class-emd-entity.php:152
+msgid "%s updated. <a href=\"%s\">View %s</a>"
+msgstr ""
+
+#: ./employee-directory/includes/entities/class-emd-entity.php:153
+msgid "Custom field updated."
+msgstr ""
+
+#: ./employee-directory/includes/entities/class-emd-entity.php:154
+msgid "Custom field deleted."
+msgstr ""
+
+#: ./employee-directory/includes/entities/class-emd-entity.php:155
+msgid "%s updated."
+msgstr ""
+
+#: ./employee-directory/includes/entities/class-emd-entity.php:157
+msgid "%s restored to revision from %s"
+msgstr ""
+
+#: ./employee-directory/includes/entities/class-emd-entity.php:158
+msgid "%s published. <a href=\"%s\">View %s</a>"
+msgstr ""
+
+#: ./employee-directory/includes/entities/class-emd-entity.php:159
+msgid "%s saved."
+msgstr ""
+
+#: ./employee-directory/includes/entities/class-emd-entity.php:160
+msgid "%s submitted. <a target=\"_blank\" href=\"%s\">Preview %s</a>"
+msgstr ""
+
+#: ./employee-directory/includes/entities/class-emd-entity.php:161
+msgid "%s scheduled for: <strong>%s</strong>. <a target=\"_blank\" href=\"%s\">Preview %s</a>"
+msgstr ""
+
+#: ./employee-directory/includes/entities/class-emd-entity.php:161
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: ./employee-directory/includes/entities/class-emd-entity.php:162
+msgid "%s draft updated. <a target=\"_blank\" href=\"%s\">Preview %s</a>"
+msgstr ""
+
+#: ./employee-directory/includes/entities/class-emd-entity.php:181
+msgid "Operations"
+msgstr ""
